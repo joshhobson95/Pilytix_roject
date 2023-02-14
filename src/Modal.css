@@ -1,0 +1,77 @@
+.card {
+    height: fit-content;
+    width: 60vw;
+    z-index: 3;
+    position: absolute;
+    top: 2vh;
+    left: 20vw;
+    background-color: #181128;
+    border: 1px solid white;
+    border-radius: 15px;
+    box-shadow: rgba(255, 255, 255, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+  }
+.invis{
+  opacity: 0;
+}
+.notthere{
+  height: 0;
+  width: 0;
+}
+.c1{
+  width: 20vw;
+  background-color: #34334F ;
+  border-radius: 15px;
+margin-top: 5vh;
+border: 1px solid white;
+}
+.c2{
+  display: flex;
+  justify-content: space-evenly;
+}
+.pcomp{
+  margin-top: 10vh;
+  height: 20vh;
+  width: auto;
+  display: inline-block;
+}
+.c1h{
+  background-color: #352672;
+  border-radius: 15px;
+  border: 1px solid white;
+  margin-top: 5vh;
+  width: 40vw;
+  font-size: 24pt;
+  font-weight: 800;
+}
+.c1h1{
+  display: flex;
+  justify-content: center;
+}
+.card span {
+  font-size: 16pt;
+  font-weight: 700;
+}
+.g1{
+  background-color: #34334F ;
+  border-radius: 15px;
+border: 1px solid white;
+}
+.g2{
+  background-color: #34334F ;
+  border-radius: 15px;
+border: 1px solid white;
+margin: 2vw;
+}
+.g3{
+  background-color: #34334F ;
+  border-radius: 15px;
+border: 1px solid white;
+margin: 2vw;
+}
+.g4{
+  background-color: #34334F ;
+  border-radius: 15px;
+border: 1px solid white;
+margin: 2vw;
+}
